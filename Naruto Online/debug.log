@@ -1,0 +1,3 @@
+[1117/125454.887:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://gamebox3.narutowebgame.com/gamebox/2.4.1/template/login.php?lg=pt&gameid=narutopt&maintype=play&page=login&account=oas&version=3.4.5.0&channel=oas&playertype=logingame' was loaded over HTTPS, but requested an insecure image 'http://img.oasgames.com/upload/1463972923.jpg'. This content should also be served over HTTPS.", source: https://gamebox3.narutowebgame.com/gamebox/2.4.1/template/login.php?lg=pt&gameid=narutopt&maintype=play&page=login&account=oas&version=3.4.5.0&channel=oas&playertype=logingame (0)
+[1117/125505.518:WARNING:sqlite_persistent_cookie_store.cc(852)] Cookie database is too new.
+[1117/125505.522:WARNING:sqlite_persistent_cookie_store.cc(852)] Cookie database is too new.
